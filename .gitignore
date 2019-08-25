@@ -1,0 +1,33 @@
+/frontPage/node_modules
+
+API/HELP.md
+API/target/
+API/!.mvn/wrapper/maven-wrapper.jar
+API/!**/src/main/**
+API/!**/src/test/**
+
+### STS ###
+API/.apt_generated
+API/.classpath
+API/.factorypath
+API/.project
+API/.settings
+API/.springBeans
+API/.sts4-cache
+
+### IntelliJ IDEA ###
+API/.idea
+API/*.iws
+API/*.iml
+API/*.ipr
+
+### NetBeans ###
+API/nbproject/private/
+API/nbbuild/
+API/dist/
+API/nbdist/
+API/.nb-gradle/
+API/build/
+
+### VS Code ###
+API/.vscode/
